@@ -6,7 +6,7 @@
         android:id="@+id/btnBase1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-    android:text="기준1"/>
+        android:text="기준1"/>
     <Button
         android:id="@+id/btnBase2"
         android:layout_width="wrap_content"
